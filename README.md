@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Elixir where functions return `:error` instead of raising an exception.  This can lead to unexpected behavior and difficulty in error handling. The `bug.ex` file showcases the problem, while `bugSolution.ex` provides a corrected version.
